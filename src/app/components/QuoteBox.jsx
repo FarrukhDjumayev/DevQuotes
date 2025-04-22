@@ -34,7 +34,7 @@ export default function QuoteBox() {
 
   return (
     <div
-      className="relative bg-gradient-to-br from-gray-900/20 via-gray-800/10 to-gray-900/20 
+      className="relative bg-gradient-to-br from-gray-900/40 via-gray-800/30 to-gray-900/30 
                  backdrop-blur-2xl p-6 sm:p-8 rounded-2xl shadow-lg max-w-xl w-full 
                  border-2 border-green-600 hover:shadow-2xl transition-shadow duration-300 group"
     >
