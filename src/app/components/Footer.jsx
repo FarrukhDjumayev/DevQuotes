@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Footer = ({ className = '' }) => {
-  // Hozirgi yilni avtomatik olish
+  
   const year = new Date().getFullYear()
 
   return (
