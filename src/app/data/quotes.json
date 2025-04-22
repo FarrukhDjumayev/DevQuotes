@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "en": { "text": "Talk is cheap. Show me the code.", "author": "Linus Torvalds" },
+    "uz": { "text": "Gap arzon. Menga kodni ko‘rsat.", "author": "Linus Torvalds" },
+    "ru": { "text": "Слова дешевы. Покажи мне код.", "author": "Линус Торвальдс" }
+  },
+  {
+    "id": 2,
+    "en": { "text": "Programs must be written for people to read.", "author": "Harold Abelson" },
+    "uz": { "text": "Dasturlar odamlar o‘qishi uchun yozilishi kerak.", "author": "Harold Abelson" },
+    "ru": { "text": "Программы пишутся для людей, а не для компьютеров.", "author": "Гарольд Абельсон" }
+  },
+  {
+    "id": 3,
+    "en": { "text": "First, solve the problem. Then, write the code.", "author": "John Johnson" },
+    "uz": { "text": "Avval muammoni hal qil. Keyin kod yoz.", "author": "John Johnson" },
+    "ru": { "text": "Сначала реши проблему. Потом пиши код.", "author": "Джон Джонсон" }
+  },
+  {
+    "id": 4,
+    "en": { "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "author": "Martin Fowler" },
+    "uz": { "text": "Har qanday kishi kompyuter tushunadigan kod yozishi mumkin. Yaxshi dasturchi odam tushunadigan kod yozadi.", "author": "Martin Fowler" },
+    "ru": { "text": "Любой дурак может написать код, который поймет компьютер. Хороший программист пишет код, понятный людям.", "author": "Мартин Фаулер" }
+  },
+  {
+    "id": 5,
+    "en": { "text": "Experience is the name everyone gives to their mistakes.", "author": "Oscar Wilde" },
+    "uz": { "text": "Tajriba — bu odamlar o‘z xatolariga qo‘ygan nomdir.", "author": "Oscar Wilde" },
+    "ru": { "text": "Опыт — это имя, которое каждый даёт своим ошибкам.", "author": "Оскар Уайльд" }
+  },
+  {
+    "id": 6,
+    "en": { "text": "Fix the cause, not the symptom.", "author": "Steve Maguire" },
+    "uz": { "text": "Muammoning ildizini tuzat, alomatini emas.", "author": "Steve Maguire" },
+    "ru": { "text": "Исправляй причину, а не симптом.", "author": "Стив Магуайр" }
+  },
+  {
+    "id": 7,
+    "en": { "text": "Before software can be reusable it first has to be usable.", "author": "Ralph Johnson" },
+    "uz": { "text": "Dastur qayta ishlatilishi uchun, avvalo foydali bo‘lishi kerak.", "author": "Ralph Johnson" },
+    "ru": { "text": "Прежде чем программное обеспечение станет повторно используемым, оно должно быть пригодным к использованию.", "author": "Ральф Джонсон" }
+  },
+  {
+    "id": 8,
+    "en": { "text": "Make it work, make it right, make it fast.", "author": "Kent Beck" },
+    "uz": { "text": "Avval ishlasin, keyin to‘g‘ri bo‘lsin, keyin tez ishlasin.", "author": "Kent Beck" },
+    "ru": { "text": "Сначала заставь работать, потом сделай правильно, потом — быстро.", "author": "Кент Бек" }
+  },
+  {
+    "id": 9,
+    "en": { "text": "Simplicity is the soul of efficiency.", "author": "Austin Freeman" },
+    "uz": { "text": "Sodda yechim — samaradorlikning asosi.", "author": "Austin Freeman" },
+    "ru": { "text": "Простота — душа эффективности.", "author": "Остин Фриман" }
+  },
+  {
+    "id": 10,
+    "en": { "text": "Programming isn't about what you know; it's about what you can figure out.", "author": "Chris Pine" },
+    "uz": { "text": "Dasturlash bu nimani bilishing emas, balki nimani aniqlay olishing haqida.", "author": "Chris Pine" },
+    "ru": { "text": "Программирование — это не то, что ты знаешь, а то, что можешь выяснить.", "author": "Крис Пайн" }
+  }
+]
