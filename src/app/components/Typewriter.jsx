@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 
-export default function Typewriter({ text = '', speed = 40 }) {
+export default function Typewriter({ text = '', speed = 60 }) {
   const [displayedText, setDisplayedText] = useState('');
   const [isTyping, setIsTyping] = useState(false);
 
@@ -28,7 +28,7 @@ export default function Typewriter({ text = '', speed = 40 }) {
 
   return (
     <span>
-      "{displayedText}"
+      "{displayedText}
     </span>
   );
 }
